@@ -23,3 +23,13 @@ This project demonstrates **Elastic Weight Consolidation (EWC)** as a solution f
 | CIFAR10    | 22.7%    |
 
 ![Results](results.png)
+
+### ⚙️ How to Run
+**In Google Colab:**
+- Open the notebook: `notebooks/lifelong_learning_experiment.ipynb`
+- Run all cells
+
+**Local (Optional):**
+```bash
+pip install -r requirements.txt
+python run_experiment.py
