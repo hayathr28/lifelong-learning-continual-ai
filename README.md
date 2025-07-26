@@ -22,4 +22,4 @@ This project demonstrates **Elastic Weight Consolidation (EWC)** as a solution f
 | FashionMNIST | 77.4% |
 | CIFAR10    | 22.7%    |
 
-![Results](images/results.png)
+![Results](results.png)
